@@ -2,7 +2,9 @@
 
 A beginners guide to prediction of IMDB movie ratings using Linear Regression,Support Vector machine and Decision tree.
 
-This is a jupyter notebook which focuses on building a simple model for predicing the IMDB ratings of famously rated movies on imdb.com.
+This is a basic model aimed at beginners in ML/DataScience.
+
+It focuses on building a simple model for predicing the IMDB ratings of famously rated movies on imdb.com.
 
 The data used in this model can be obtained from the following url :  http://bit.ly/imdbratings
 
